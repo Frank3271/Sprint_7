@@ -35,7 +35,7 @@ public void createSameCourierConflict() {
 
     Response second = courierSteps.createCourier(courier);
         second.then().statusCode(409)
-                .body("message", equalTo("Этот логин уже используется"));
+                .body("message", equalTo("Этот логин уже используется. Попробуйте другой."));
 }
 
 
