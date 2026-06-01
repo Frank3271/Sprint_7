@@ -47,3 +47,4 @@ public void createSameCourierConflict() {
                 .body("message", equalTo("Недостаточно данных для создания учетной записи"));
     }
 }
+//vot

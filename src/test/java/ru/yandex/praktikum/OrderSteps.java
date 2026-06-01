@@ -23,4 +23,4 @@ public class OrderSteps {
                 .baseUri(BASE_URI)
                 .get(ORDER_PATH);
     }
-}
+}//vot

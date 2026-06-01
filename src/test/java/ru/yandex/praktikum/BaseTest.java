@@ -16,7 +16,7 @@ public class BaseTest {
         if (courierId != 0) {
             courierSteps.deleteCourier(courierId);
         }
-    }
+    }//vot
 
 
 }

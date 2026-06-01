@@ -53,4 +53,4 @@ public class LoginCourierTest extends  BaseTest {
                 .body("message", equalTo("Недостаточно данных для входа"));
     }
 }
-//вроде так
+//vot
