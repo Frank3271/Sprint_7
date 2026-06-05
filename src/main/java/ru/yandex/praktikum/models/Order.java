@@ -47,4 +47,4 @@ public class Order {
     public void setComment(String comment) { this.comment = comment; }
     public List<String> getColor() { return color; }
     public void setColor(List<String> color) { this.color = color; }
-}
+} // vot

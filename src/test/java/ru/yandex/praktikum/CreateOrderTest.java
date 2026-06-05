@@ -47,7 +47,7 @@ public class CreateOrderTest {
                 "2025-06-15",
                 "Позвонить за час",
                 colors
-        );
+        );//vot
 
         OrderSteps steps = new OrderSteps();
         Response response = steps.createOrder(order);
